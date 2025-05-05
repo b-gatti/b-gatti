@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @b-gatti
-- 👀 Welcome to my not-so-glamorous corner!
-- If you’re expecting glittery graphics and buzz words, you might be disappointed.
-- My page here isn’t fancy, sophisticated, or flashy—it’s just a few projects with data I can share.
-- Why? Because while others were busy building their brands, I was the one getting sh*t done! 
+Analytical thinker with a strong foundation in mathematics, now applying those skills to real-world data problems. My projects showcase experience with Python, pandas, and data visualization using matplotlib and seaborn. I’m exploring opportunities in data analysis, research, and adjacent fields like clinical data and project management. Open to learning, collaborating, and building solutions that make an impact.
 
-<!---
-b-gatti/b-gatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
